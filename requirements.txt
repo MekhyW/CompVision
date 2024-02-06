@@ -1,0 +1,7 @@
+gdown
+numpy
+matplotlib
+seaborn
+opencv-python
+scikit-image
+scikit-learn
